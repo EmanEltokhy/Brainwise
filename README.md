@@ -170,4 +170,3 @@ Before you begin, ensure you have the following installed:
 
 Use tools like **Postman** or **Swagger** to:  
 - Test API functionality.  
-- View detailed documentation for all API endpoints.  
