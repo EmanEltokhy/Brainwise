@@ -1,0 +1,23 @@
+# brainwise (Python)
+brainwise/__pycache__/
+brainwise/*.py[cod]
+brainwise/venv/
+brainwise/env/
+brainwise/*.env
+brainwise/env.*
+
+# Frontend (Vue.js)
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
+frontend/*.env
+frontend/.env.*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
